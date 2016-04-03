@@ -1,14 +1,16 @@
 # drift-utils
 Java Utilities Repository
 
---> drift-core : 
-    Equalsbuilder based on runtime byte code manipulation
-    Deep copy and shallow copy
+### drift-core
+    - Equalsbuilder based on runtime byte code manipulation
+    - Deep copy and shallow copy
+    - Parallel Counting Map
+    - Next Permutation Generator
     
---> drift-time :
+### drift-time
     Utilities around adding timestamps and versioning your data
     
---> drift-instrumentation :
+### drift-instrumentation
     Runtime average object size calculation based on annotations
     Annotate your methods to get time logs
 
