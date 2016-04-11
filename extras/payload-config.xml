@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<columns>
+	<column>
+		<id>1</id>
+		<name>cCol</name>
+		<attr></attr>
+		<extractor>payload.Extractors.cExtractor</extractor>
+	</column>
+	<column>
+		<id>2</id>
+		<name>cCol</name>
+		<attr>i.h.g.f.e.d.c.b.a.b1</attr>
+		<extractor>payload.Extractors.nestedValueEvaluator</extractor>
+	</column>
+</columns>
